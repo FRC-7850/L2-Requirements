@@ -33,6 +33,7 @@
 2. Shooter shall have 3 set angles
 3. Shooter angles shall be toggled with one button
 4. Shooter shall be tunable with a resolution of 1 degree
+5. Shooter shall be able to reach any angle setpoint in under 1 second
    
 
 - Robot shall pick frisbees off the ground
@@ -49,7 +50,7 @@
 
 
 - Robot shall be able to shoot 5 frisbees in 10 seconds
-1. Robot shall be able to shoot 5 in a periodic and controlled fashion
+1. Robot shall be able to shoot 5 times in a periodic and controlled fashion
 2. Robot shall shoot once every 2 seconds
 
 
