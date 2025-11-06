@@ -4,9 +4,9 @@
 
 
 2. Grab kernels from the snack bar
-   Grab a tennis ball
-   Transport tennis ball into hopper on robot
-   be able to pick up a group of 4 at one time
+   -Grab a tennis ball
+   -Transport tennis ball into hopper on robot
+   -be able to pick up a group of 4 at one time
    
 4. drive over a 2 inch barrier
   Design chassis with wheels capable of climbing over barrier
